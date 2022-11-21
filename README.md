@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)](https://minhdung.io)
-<h1 align="center">Hi 👋, I'm Minh Dung</h1>
+<h1 align="center">Hi 👋, Cu Thân Đẹp Trai</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
 <img align="right" alt="Coding" width="350"  src="https://i.pinimg.com/originals/85/4f/c1/854fc143b9a24759505e50f74cbc054a.gif">
@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/LuvCii/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuvCii" alt="luvcci" /></a> </p> -->
 
-- 🔭 I’m currently working on **FPT Polytechnic**
+- 🔭 I’m currently working on **PTIT**
 
 - 🌱 I’m currently learning **Reactjs**
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **React, Css and Js**
 
-- 📫 How to reach me **tranminhdungggg@gmail.com**
+- 📫 How to reach me **cuthan2k1@gmail.com**
 
 - ⚡ Remember fact **Lc 6:20: "Phúc cho anh em là những kẻ nghèo khó, vì Nước Thiên Chúa là của anh em.**
 
